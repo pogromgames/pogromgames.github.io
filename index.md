@@ -1,4 +1,4 @@
-![PogromGames Logo](E:\pogromgames\images\Pogrom_logo.png)
+![PogromGames Logo](images/Pogrom_logo.png)
 
 # PogromGames
 
@@ -25,7 +25,7 @@ achieve a polished result.
 
 ### Texture Resizer Pro
 
-[![Texture Resizer Pro](texture-resizer-pro-thumbnail.png)](https://assetstore.unity.com/packages/...)
+[![Texture Resizer Pro](images/TextureResizerPro_420x280.png)](https://assetstore.unity.com/packages/...)
 
 A powerful batch texture optimization tool for Unity.
 Estimate file size and build savings before making changes,
